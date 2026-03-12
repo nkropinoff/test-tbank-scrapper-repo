@@ -5,4 +5,4 @@ new test
 new
 
 neww
-nne
+nne'\
