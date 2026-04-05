@@ -1,2 +1,1 @@
-sql test
-s
+w
